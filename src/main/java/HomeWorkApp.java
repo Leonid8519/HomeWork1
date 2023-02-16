@@ -20,7 +20,7 @@ public class HomeWorkApp {
     private static void checkSumSign() {
 
         int a = 4;
-        int b = -22;
+        int b = -20;
         int result = a + b;
         if (result >= 0) {
             System.out.println("Сумма положительная");
